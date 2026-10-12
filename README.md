@@ -5,5 +5,6 @@
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/86c5c571-4822-49ee-ab1c-139ec2450a4c" />
 
 ## JWKS Project 2:
-<img width="975" height="280" alt="image" src="https://github.com/user-attachments/assets/b410c298-b30d-4c7d-80be-f2e569700761" />
-<img width="975" height="257" alt="image" src="https://github.com/user-attachments/assets/48469ef9-5e54-4b71-9d75-4dc08449e472" />
+<img width="1357" height="380" alt="image" src="https://github.com/user-attachments/assets/8be21daa-8b06-4839-9303-3311d691ec85" />
+<img width="1099" height="281" alt="image" src="https://github.com/user-attachments/assets/e24aa297-6faf-4a41-a97f-6171b0e46e3d" />
+
